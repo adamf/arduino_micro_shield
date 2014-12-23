@@ -1,7 +1,7 @@
 arduino_micro_shield
 ====================
 
-![My image](github.com/arduino_micro_shield/arduino_micro_shield.png)
+![My image](arduino_micro_shield.png)
 
 KiCAD library and footprint for an Arduino Micro shield.
 
